@@ -233,9 +233,11 @@ nav a:hover{
      margin-right: 50px;
     }
     body{
-      background: url(images/2.jpg);
+      background: url(images/background.jpg);
       background-position: center;
       background-size: cover;
-      
+      background-repeat: no-repeat;
+      background-position-x: -200px;
+      background-position-y: 100px ;
   }
   }
