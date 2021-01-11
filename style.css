@@ -223,3 +223,19 @@ nav a:hover{
   }
 
 /*Landing Page Over*/
+@media only screen and (max-width: 770px){
+    nav li{
+      opacity: 0;
+    }
+    .center{
+      height: 150px;
+      width: 80px;
+     margin-right: 50px;
+    }
+    body{
+      background: url(images/2.jpg);
+      background-position: center;
+      background-size: cover;
+      
+  }
+  }
